@@ -5,6 +5,6 @@
 
 **Today's Progress**: Finish FreeCodeCamp Object Oriented and Functional Programming Lessons and Finish 2 Basic Algorithm Scripting
 
-**Thoughts:** Actually i`m kind of happy because actually i`m starting my lessons again in freecodecamp.
+**Thoughts:** Actually i\`m kind of happy because i\`m starting my lessons again in freecodecamp.
 
 **Link to work:** [FreeCodeCamp Lessons](https://www.freecodecamp.org/challenges/factorialize-a-number)
