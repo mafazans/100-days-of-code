@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 1: January 09, 2018
-##### (delete me or comment me out)
+##### R1D1 : I\`m deciding to start my lessons at FreeCodeCamp again. After along time didn\`t even visit the websites.
 
 **Today's Progress**: Finish FreeCodeCamp Object Oriented and Functional Programming Lessons and Finish 2 Basic Algorithm Scripting
 
