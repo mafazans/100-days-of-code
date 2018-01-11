@@ -8,3 +8,13 @@
 **Thoughts:** Actually i\`m kind of happy because i\`m starting my lessons again in freecodecamp.
 
 **Link to work:** [FreeCodeCamp Lessons](https://www.freecodecamp.org/challenges/find-the-longest-word-in-a-string)
+
+
+### Day 2: January 10, 2018
+##### R1D1 : I\`m struggle with basic algorithm scripting lessons.
+
+**Today's Progress**: Finish 2 Basic Algorithm Scripting
+
+**Thoughts:** I\`m stressed off because of the lessons at freecodecamp. Take me a long time for just solving 1 problem, :(
+
+**Link to work:** [FreeCodeCamp Lessons](https://www.freecodecamp.org/challenges/return-largest-numbers-in-arrays)
