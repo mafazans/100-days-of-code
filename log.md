@@ -18,3 +18,13 @@
 **Thoughts:** I\`m stressed off because of the lessons at freecodecamp. Take me a long time for just solving 1 problem, :(
 
 **Link to work:** [FreeCodeCamp Lessons](https://www.freecodecamp.org/challenges/return-largest-numbers-in-arrays)
+
+### Day 3 - Day 5: January 11 - 13, 2018
+##### R1D3-5 : Still solving basic algorithm at freecodecamp!.
+
+**Today's Progress**: A bit stressed but its fun!
+
+**Thoughts:** The problem a little hard to solve but its fun!
+
+**Link to work:** [FreeCodeCamp Lessons](https://www.freecodecamp.org/challenges/return-largest-numbers-in-arrays)
+
